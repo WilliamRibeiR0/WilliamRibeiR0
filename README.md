@@ -4,7 +4,7 @@
 
 <div  align="center" style="margin-bottom:100px"><br/>
 <img width=49%   align="center" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamRibeiR0&theme=transparent&mode=weekly&hide_border=true" />
- <img width="41%"  align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRibeiR0&layout=compact&hide_border=true&title_color=006aff&text_color=2a4e55&bg_color=0d1117" />
+
 </div><br/>
 
 <p align="center">
