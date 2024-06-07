@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=header"/>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006aff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+William+Pimenta+Ribeiro;seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+William+Pimenta+Ribeiro;seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div  align="center" style="margin-bottom:100px"><br/>
 <img width=49%   align="center" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamRibeiR0&theme=transparent&mode=weekly&hide_border=true" />
